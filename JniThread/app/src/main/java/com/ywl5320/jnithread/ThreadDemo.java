@@ -12,4 +12,6 @@ public class ThreadDemo {
     }
 
     public native void normalThread();
+
+    public native void mutexThread();
 }

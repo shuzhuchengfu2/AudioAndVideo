@@ -22,4 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void mutexThread(View view) {
+        threadDemo.mutexThread();
+    }
 }
